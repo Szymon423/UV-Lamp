@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PEC16-4220F-S0024
+D Bourns Encoder 24ppr ppr 5 V dc
+K
+F https://www.bourns.com/pdfs/PEC16.pdf
+$ENDCMP
+#
+#End Doc Library
