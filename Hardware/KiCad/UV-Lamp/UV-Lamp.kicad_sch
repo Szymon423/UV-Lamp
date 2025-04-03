@@ -287,7 +287,7 @@
 		)
 	)
 	(sheet
-		(at 106.68 76.2)
+		(at 107.95 76.2)
 		(size 31.75 31.75)
 		(fields_autoplaced yes)
 		(stroke
@@ -299,7 +299,7 @@
 		)
 		(uuid "e3bcedd2-cdd6-422b-ab98-f820718321ab")
 		(property "Sheetname" "Power Section"
-			(at 106.68 75.4884 0)
+			(at 107.95 75.4884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -308,7 +308,7 @@
 			)
 		)
 		(property "Sheetfile" "power-section.kicad_sch"
-			(at 106.68 108.5346 0)
+			(at 107.95 108.5346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -325,8 +325,8 @@
 		)
 	)
 	(sheet
-		(at 151.13 74.93)
-		(size 32.385 31.75)
+		(at 152.4 76.2)
+		(size 31.75 31.75)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -337,7 +337,7 @@
 		)
 		(uuid "eb9c48b5-0fa3-4b4c-8cf1-0535dd41cf8b")
 		(property "Sheetname" "LED Driver"
-			(at 151.13 74.2184 0)
+			(at 152.4 75.4884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -346,7 +346,7 @@
 			)
 		)
 		(property "Sheetfile" "led-driver.kicad_sch"
-			(at 151.13 107.2646 0)
+			(at 152.4 108.5346 0)
 			(effects
 				(font
 					(size 1.27 1.27)

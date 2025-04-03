@@ -2519,7 +2519,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 95.25) (xy 248.92 95.25)
+			(xy 250.19 95.25) (xy 246.38 95.25)
 		)
 		(stroke
 			(width 0)
@@ -2569,7 +2569,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 95.25) (xy 111.76 95.25)
+			(xy 105.41 95.25) (xy 109.22 95.25)
 		)
 		(stroke
 			(width 0)
@@ -2629,7 +2629,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 95.25) (xy 119.38 95.25)
+			(xy 120.65 95.25) (xy 116.84 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3039,7 +3039,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 95.25) (xy 241.3 95.25)
+			(xy 234.95 95.25) (xy 238.76 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3523,7 +3523,7 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 115.57 95.25 90)
+		(at 113.03 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3532,7 +3532,7 @@
 		(fields_autoplaced yes)
 		(uuid "13207646-455b-44a1-9933-66327f454f5c")
 		(property "Reference" "L1"
-			(at 115.57 90.17 90)
+			(at 113.03 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3540,7 +3540,7 @@
 			)
 		)
 		(property "Value" "DE1207-47"
-			(at 115.57 92.71 90)
+			(at 113.03 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3548,7 +3548,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_12x12mm_H6mm"
-			(at 115.57 95.25 0)
+			(at 113.03 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3557,7 +3557,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 95.25 0)
+			(at 113.03 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3566,7 +3566,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 115.57 95.25 0)
+			(at 113.03 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3867,7 +3867,7 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 245.11 95.25 90)
+		(at 242.57 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3876,7 +3876,7 @@
 		(fields_autoplaced yes)
 		(uuid "2dac766c-3114-41ed-9cac-2d0345978f15")
 		(property "Reference" "L2"
-			(at 245.11 90.17 90)
+			(at 242.57 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3884,7 +3884,7 @@
 			)
 		)
 		(property "Value" "DE1207-47"
-			(at 245.11 92.71 90)
+			(at 242.57 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3892,7 +3892,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_12x12mm_H6mm"
-			(at 245.11 95.25 0)
+			(at 242.57 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3901,7 +3901,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 245.11 95.25 0)
+			(at 242.57 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3910,7 +3910,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 245.11 95.25 0)
+			(at 242.57 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6171,10 +6171,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9e2d0aad-7056-4b22-9d7b-3321dab26c68")
+			(uuid "9e2d0aad-7056-4b22-9d7b-3321dab26c69")
 		)
 		(pin "2"
-			(uuid "83192a6a-d6fe-4d7f-9f97-545c05ad924c")
+			(uuid "83192a6a-d6fe-4d7f-9f97-545c05ad924d")
 		)
 		(instances
 			(project ""
