@@ -1,0 +1,8 @@
+components/ui_comp_image1.c
+components/ui_comp.c
+screens/ui_ScreenPowerSetting.c
+screens/ui_ScreenTimerSetting.c
+screens/ui_ScreenMain.c
+ui.c
+components/ui_comp_hook.c
+ui_helpers.c
