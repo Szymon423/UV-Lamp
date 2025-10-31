@@ -109,30 +109,6 @@ The system consists of three types of PCBs:
 - **Timer range:** 0-180 seconds
 - **Display:** 1.69" color LCD (280x240)
 
-### 📸 Additional Renders
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%"><img src="/Hardware/3D-Model/Renders/03.png" alt="Render 02" width="100%"/></td>
-    <td width="50%"><img src="/Hardware/3D-Model/Renders/04.png" alt="Render 03" width="100%"/></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="/Hardware/3D-Model/Renders/05.png" alt="Render 04" width="100%"/></td>
-    <td width="50%"><img src="/Hardware/3D-Model/Renders/06.png" alt="Render 05" width="100%"/></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="/Hardware/3D-Model/Renders/07.png" alt="Render 04" width="100%"/></td>
-    <td width="50%"><img src="/Hardware/3D-Model/Renders/08.png" alt="Render 05" width="100%"/></td>
-  <tr>
-  <tr>
-    <td width="100%"><img src="/Hardware/3D-Model/Renders/09.png" alt="Render 05" width="100%"/></td>
-  <tr>
-</table>
-
-</div>
-
 ---
 
 ## 💻 Software
