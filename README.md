@@ -28,45 +28,40 @@ Most commercial UV lamps are advertised as "60W UV lamps" while being supplied w
 ### 🎨 Main Design
 
 ![Main Render](/Hardware/3D-Model/Renders/01.png)
-![Main Render](/Hardware/3D-Model/Renders/02.png)
 
 ### 🖼️ Detailed Views
 
 <table>
   <tr>
     <td width="50%">
-      <img src="/Hardware/3D-Model/Renders/03.png" alt="Side View" width="100%"/>
-      <p align="center"><em>Side perspective</em></p>
+      <img src="/Hardware/3D-Model/Renders/02.png" alt="View 2" width="100%"/>
     </td>
     <td width="50%">
-      <img src="/Hardware/3D-Model/Renders/04.png" alt="Top View" width="100%"/>
-      <p align="center"><em>Top view</em></p>
+      <img src="/Hardware/3D-Model/Renders/03.png" alt="View 3" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="/Hardware/3D-Model/Renders/05.png" alt="Internal View" width="100%"/>
-      <p align="center"><em>Internal components</em></p>
+      <img src="/Hardware/3D-Model/Renders/04.png" alt="View 4" width="100%"/>
     </td>
     <td width="50%">
-      <img src="/Hardware/3D-Model/Renders/06.png" alt="PCB Layout" width="100%"/>
-      <p align="center"><em>PCB arrangement</em></p>
+      <img src="/Hardware/3D-Model/Renders/05.png" alt="View 5" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="/Hardware/3D-Model/Renders/07.png" alt="Assembly Detail" width="100%"/>
-      <p align="center"><em>Assembly detail</em></p>
+      <img src="/Hardware/3D-Model/Renders/06.png" alt="View 6" width="100%"/>
     </td>
     <td width="50%">
-      <img src="/Hardware/3D-Model/Renders/08.png" alt="Component Layout" width="100%"/>
-      <p align="center"><em>Component layout</em></p>
+      <img src="/Hardware/3D-Model/Renders/07.png" alt="View 7" width="100%"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img src="/Hardware/3D-Model/Renders/09.png" alt="Full Assembly" width="100%"/>
-      <p align="center"><em>Complete assembly</em></p>
+    <td width="50%">
+      <img src="/Hardware/3D-Model/Renders/08.png" alt="View 8" width="100%"/>
+    </td>
+    <td cwidth="50%">
+      <img src="/Hardware/3D-Model/Renders/09.png" alt="View 9" width="100%"/>
     </td>
   </tr>
 </table>
