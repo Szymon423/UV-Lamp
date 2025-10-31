@@ -1,0 +1,3 @@
+[submodule "Software/UV-Lamp/lib/lvgl"]
+	path = Software/UV-Lamp/lib/lvgl
+	url = https://github.com/lvgl/lvgl.git
